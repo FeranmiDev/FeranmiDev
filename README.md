@@ -2,7 +2,6 @@
 - 🌱 I am a Software Developer focused on Frontend (I’m currently learning html, css and javascript)
 - 👀 I’m interested in building stuff that gonna make life easier.
 - 💞️ I’m looking to collaborate on building project
-- 😄 Pronouns: He
 
 📫Reach out to me here 👇
 
